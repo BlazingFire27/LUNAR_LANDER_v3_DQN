@@ -26,3 +26,5 @@ Replicate our results easily:
 ## Training Results
 
 The following plots illustrate the output of trained lunar lander which used Reinforcement Learning and Deep Q Learning for the training process
+
+<video src="Lunar_landing_short_video.mp4" controls="controls" style="max-width: 730px;"> </video>
